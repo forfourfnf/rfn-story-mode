@@ -6,10 +6,10 @@ fresh - reckless (not started)
 
 dadbattle - unemployed (not started)
 
-spookeez - supercharge (in progress)
+spookeez - supercharge
 
 south - temper break (not started)
 
-cocoa - fired (old unemployed)
+cocoa - fired
 
 eggnog - demoson (not started)
