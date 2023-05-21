@@ -1,13 +1,15 @@
-bopeebo - 3xhilaration
+https://forfourfnf.github.io/rfn-story-mode/
 
-fresh - reckless
+bopeebo - 3xhilaration (not started)
 
-dadbattle - unemployed
+fresh - reckless (not started)
 
-spookeez - supercharge
+dadbattle - unemployed (not started)
 
-south - temper break
+spookeez - supercharge (in progress)
+
+south - temper break (not started)
 
 cocoa - fired (old unemployed)
 
-eggnog - demoson
+eggnog - demoson (not started)
