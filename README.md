@@ -1,8 +1,8 @@
 https://forfourfnf.github.io/rfn-story-mode/
 
-bopeebo - exhilaration (in progress)
+bopeebo - exhilaration
 
-fresh - reckless (not started)
+fresh - reckless (in progress)
 
 dadbattle - unemployed (not started)
 
