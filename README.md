@@ -1,6 +1,6 @@
 https://forfourfnf.github.io/rfn-story-mode/
 
-bopeebo - 3xhilaration (not started)
+bopeebo - exhilaration (in progress)
 
 fresh - reckless (not started)
 
