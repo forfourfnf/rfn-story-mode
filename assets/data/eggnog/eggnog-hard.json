@@ -1,7 +1,9 @@
 {
 	"song": {
 		"player1": "bf",
+		"events": [],
 		"gfVersion": "gf",
+		"player2": "pico",
 		"notes": [
 			{
 				"sectionNotes": [
@@ -15290,16 +15292,13 @@
 				"altAnim": false
 			}
 		],
-		"events": [],
-		"player2": "pico",
-		"player3": gf,
-		"splashSkin": "noteSplashes",
+		"player3": "gf",
 		"song": "eggnog",
+		"sections": 45,
 		"needsVoices": true,
-		"arrowSkin": "",
-		"validScore": true,
 		"stage": "philly",
-		"bpm": 160,
-		"speed": 3
+		"validScore": true,
+		"bpm": 208,
+		"speed": 2.9
 	}
 }
