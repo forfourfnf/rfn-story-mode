@@ -4,11 +4,11 @@ bopeebo - exhilaration
 
 fresh - reckless
 
-dadbattle - unemployed (not started)
+dadbattle - unemployed
 
 spookeez - supercharge
 
-south - temper break (not started)
+south - temper break
 
 cocoa - fired
 
