@@ -7148,6 +7148,16 @@
 				"sectionNotes": [],
 				"typeOfSection": 0,
 				"altAnim": false
+			},
+			{
+				"sectionBeats": 4,
+				"bpm": 215,
+				"changeBPM": false,
+				"mustHitSection": true,
+				"gfSection": false,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"altAnim": false
 			}
 		],
 		"player2": "pico",
