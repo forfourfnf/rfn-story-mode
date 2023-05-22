@@ -1,6 +1,6 @@
 {
 	"song": {
-		"player1": "bfpov",
+		"player1": "bf",
 		"notes": [
 			{
 				"sectionNotes": [
@@ -7150,14 +7150,14 @@
 				"altAnim": false
 			}
 		],
-		"player2": "bensonangry",
-		"gfVersion": "gfpov",
+		"player2": "pico",
+		"gfVersion": "gf",
 		"events": [],
 		"player3": "gf",
-		"song": "Temper-Break",
+		"song": "south",
 		"needsVoices": true,
 		"arrowSkin": "",
-		"stage": "angrypark",
+		"stage": "philly",
 		"validScore": true,
 		"bpm": 215,
 		"speed": 3.1
