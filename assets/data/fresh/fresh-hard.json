@@ -53,17 +53,32 @@
 				]
 			],
 			[
+				104000,
+				[
+					[
+						"Set Cam Zoom",
+						"1.1",
+						"2"
+					]
+				]
+			],
+			[
 				106666.666666667,
 				[
 					[
 						"Alt Idle Animation",
 						"Dad",
 						""
+					],
+					[
+						"Set Cam Zoom",
+						"0.88",
+						""
 					]
 				]
 			]
 		],
-		"gfVersion": "gf-christmas",
+		"gfVersion": "gfChristmas",
 		"player2": "spooky",
 		"notes": [
 			{
@@ -2819,24 +2834,28 @@
 				"typeOfSection": 0,
 				"sectionNotes": [
 					[
-						87999,
+						88000,
 						1,
-						0
+						0,
+						"Alt Animation"
 					],
 					[
-						88499,
+						88500,
 						1,
-						0
+						0,
+						"Alt Animation"
 					],
 					[
-						88666,
-						3,
-						0
-					],
-					[
-						89166,
+						89166.6666666666,
 						2,
-						0
+						0,
+						"Alt Animation"
+					],
+					[
+						88666.6666666666,
+						0,
+						0,
+						"Alt Animation"
 					]
 				],
 				"lengthInSteps": 16,
@@ -2849,39 +2868,46 @@
 				"typeOfSection": 0,
 				"sectionNotes": [
 					[
-						89499,
-						0,
-						0
-					],
-					[
-						89666,
+						89500,
 						1,
-						0
-					],
-					[
-						89833,
-						3,
-						0
-					],
-					[
-						89999,
-						2,
-						0
-					],
-					[
-						90166,
 						0,
-						0
+						"Alt Animation"
 					],
 					[
-						90333,
+						89666.6666666666,
 						3,
-						0
+						0,
+						"Alt Animation"
 					],
 					[
-						90499,
+						89833.3333333333,
 						2,
-						0
+						0,
+						"Alt Animation"
+					],
+					[
+						90000,
+						1,
+						0,
+						"Alt Animation"
+					],
+					[
+						90166.6666666666,
+						3,
+						0,
+						"Alt Animation"
+					],
+					[
+						90333.3333333333,
+						0,
+						0,
+						"Alt Animation"
+					],
+					[
+						90500,
+						1,
+						0,
+						"Alt Animation"
 					]
 				],
 				"lengthInSteps": 16,
@@ -2980,29 +3006,34 @@
 				"typeOfSection": 0,
 				"sectionNotes": [
 					[
-						93333,
+						93333.3333333333,
 						1,
-						0
+						0,
+						"Alt Animation"
 					],
 					[
-						93666,
+						93666.6666666666,
 						1,
-						0
+						0,
+						"Alt Animation"
 					],
 					[
-						93833,
+						93833.3333333333,
 						1,
-						0
+						0,
+						"Alt Animation"
 					],
 					[
-						93999,
+						94000,
 						3,
-						0
+						0,
+						"Alt Animation"
 					],
 					[
-						94499,
+						94500,
 						2,
-						0
+						0,
+						"Alt Animation"
 					]
 				],
 				"altAnim": true,
@@ -3015,44 +3046,52 @@
 				"typeOfSection": 0,
 				"sectionNotes": [
 					[
-						94833,
+						94999.9999999999,
+						3,
 						0,
-						0
+						"Alt Animation"
 					],
 					[
-						94999,
-						3,
-						0
-					],
-					[
-						95083,
+						95083.3333333333,
 						2,
-						0
+						0,
+						"Alt Animation"
 					],
 					[
-						95166,
-						1,
-						0
-					],
-					[
-						95333,
+						95333.3333333333,
 						3,
-						0
+						0,
+						"Alt Animation"
 					],
 					[
-						95499,
+						95166.6666666666,
+						0,
+						0,
+						"Alt Animation"
+					],
+					[
+						94833.3333333333,
 						1,
-						0
+						0,
+						"Alt Animation"
 					],
 					[
-						95833,
+						95833.3333333333,
+						1,
+						0,
+						"Alt Animation"
+					],
+					[
+						95499.9999999999,
 						2,
-						0
+						0,
+						"Alt Animation"
 					],
 					[
 						95666.6666666666,
-						2,
-						0
+						0,
+						0,
+						"Alt Animation"
 					]
 				],
 				"altAnim": true,
@@ -3185,49 +3224,58 @@
 				"typeOfSection": 0,
 				"sectionNotes": [
 					[
-						98666,
+						98666.6666666666,
 						1,
-						0
-					],
-					[
-						98833,
-						2,
-						0
-					],
-					[
-						98999,
-						3,
-						0
-					],
-					[
-						99166,
-						1,
-						0
-					],
-					[
-						99249,
 						0,
-						0
+						"Alt Animation"
 					],
 					[
-						99333,
+						98833.3333333333,
 						2,
-						0
-					],
-					[
-						99499,
-						1,
-						0
-					],
-					[
-						99666,
-						3,
-						0
-					],
-					[
-						99833,
 						0,
-						0
+						"Alt Animation"
+					],
+					[
+						99499.9999999999,
+						1,
+						0,
+						"Alt Animation"
+					],
+					[
+						99666.6666666666,
+						3,
+						0,
+						"Alt Animation"
+					],
+					[
+						99833.3333333333,
+						0,
+						0,
+						"Alt Animation"
+					],
+					[
+						98999.9999999999,
+						0,
+						0,
+						"Alt Animation"
+					],
+					[
+						99166.6666666666,
+						3,
+						0,
+						"Alt Animation"
+					],
+					[
+						99249.9999999999,
+						2,
+						0,
+						"Alt Animation"
+					],
+					[
+						99333.3333333333,
+						0,
+						0,
+						"Alt Animation"
 					]
 				],
 				"altAnim": true,
@@ -3240,59 +3288,70 @@
 				"typeOfSection": 0,
 				"sectionNotes": [
 					[
-						99999,
-						2,
-						0
-					],
-					[
-						100166,
+						100166.666666667,
 						3,
-						0
-					],
-					[
-						100333,
-						2,
-						0
-					],
-					[
-						100499,
-						1,
-						0
-					],
-					[
-						100583,
 						0,
-						0
+						"Alt Animation"
 					],
 					[
-						100666,
-						3,
-						0
-					],
-					[
-						100749,
-						2,
-						0
-					],
-					[
-						100833,
+						100833.333333333,
 						0,
-						0
+						0,
+						"Alt Animation"
 					],
 					[
-						100916,
-						3,
-						0
-					],
-					[
-						100999,
+						99999.9999999999,
 						1,
-						0
+						0,
+						"Alt Animation"
 					],
 					[
-						101166,
+						100333.333333333,
+						1,
+						0,
+						"Alt Animation"
+					],
+					[
+						100500,
+						0,
+						0,
+						"Alt Animation"
+					],
+					[
+						100583.333333333,
 						2,
-						0
+						0,
+						"Alt Animation"
+					],
+					[
+						100666.666666667,
+						1,
+						0,
+						"Alt Animation"
+					],
+					[
+						100750,
+						3,
+						0,
+						"Alt Animation"
+					],
+					[
+						100916.666666667,
+						2,
+						0,
+						"Alt Animation"
+					],
+					[
+						101000,
+						3,
+						0,
+						"Alt Animation"
+					],
+					[
+						101166.666666667,
+						1,
+						0,
+						"Alt Animation"
 					]
 				],
 				"altAnim": true,
@@ -3430,59 +3489,70 @@
 				"typeOfSection": 0,
 				"sectionNotes": [
 					[
-						103999,
+						104000,
 						1,
-						0
-					],
-					[
-						104166,
 						0,
-						0
+						"Alt Animation"
 					],
 					[
-						104249,
+						104833.333333333,
 						1,
-						0
+						0,
+						"Alt Animation"
 					],
 					[
-						104333,
+						105000,
 						3,
-						0
-					],
-					[
-						104499,
 						0,
-						0
+						"Alt Animation"
 					],
 					[
-						104583,
+						105166.666666667,
 						2,
-						0
-					],
-					[
-						104666,
-						3,
-						0
-					],
-					[
-						104833,
-						1,
-						0
-					],
-					[
-						104999,
-						3,
-						0
-					],
-					[
-						105166,
-						2,
-						0
-					],
-					[
-						105249,
 						0,
-						0
+						"Alt Animation"
+					],
+					[
+						105250,
+						0,
+						0,
+						"Alt Animation"
+					],
+					[
+						104166.666666667,
+						0,
+						0,
+						"Alt Animation"
+					],
+					[
+						104250,
+						2,
+						0,
+						"Alt Animation"
+					],
+					[
+						104333.333333333,
+						1,
+						0,
+						"Alt Animation"
+					],
+					[
+						104500,
+						3,
+						0,
+						"Alt Animation"
+					],
+					[
+						104583.333333333,
+						0,
+						0,
+						"Alt Animation"
+					],
+					[
+						104666.666666667,
+						2,
+						0,
+						"Alt Animation"
 					]
 				],
 				"altAnim": true,
@@ -3495,54 +3565,64 @@
 				"typeOfSection": 0,
 				"sectionNotes": [
 					[
-						105333,
-						2,
-						0
-					],
-					[
-						105499,
+						105500,
 						3,
-						0
-					],
-					[
-						105666,
 						0,
-						0
+						"Alt Animation"
 					],
 					[
-						105833,
-						2,
-						0
-					],
-					[
-						105999,
+						105333.333333333,
+						1,
 						0,
-						0
+						"Alt Animation"
 					],
 					[
-						105916,
-						1,
-						0
-					],
-					[
-						106166,
+						105666.666666667,
 						2,
-						0
+						0,
+						"Alt Animation"
 					],
 					[
-						106249,
+						105833.333333333,
 						3,
-						0
+						0,
+						"Alt Animation"
 					],
 					[
-						106333,
+						105916.666666667,
+						0,
+						0,
+						"Alt Animation"
+					],
+					[
+						106000,
+						3,
+						0,
+						"Alt Animation"
+					],
+					[
+						106166.666666667,
 						1,
-						0
+						0,
+						"Alt Animation"
 					],
 					[
-						106499,
-						3,
-						0
+						106250,
+						2,
+						0,
+						"Alt Animation"
+					],
+					[
+						106333.333333333,
+						0,
+						0,
+						"Alt Animation"
+					],
+					[
+						106500,
+						1,
+						0,
+						"Alt Animation"
 					]
 				],
 				"altAnim": true,
@@ -5365,6 +5445,36 @@
 				"bpm": 180
 			},
 			{
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"sectionBeats": 4,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 180,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 180
+			},
+			{
+				"gfSection": false,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 180,
+				"sectionBeats": 4,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
 				"gfSection": false,
 				"altAnim": false,
 				"typeOfSection": 0,
@@ -5375,7 +5485,7 @@
 				"mustHitSection": true
 			}
 		],
-		"player3": "gf-Christmas",
+		"player3": "gfChristmas",
 		"song": "fresh",
 		"sections": 45,
 		"needsVoices": true,
