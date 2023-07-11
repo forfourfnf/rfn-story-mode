@@ -1,6 +1,6 @@
 {
 	"song": {
-		"player1": "bf",
+		"player1": "bf-pixel",
 		"notes": [
 			{
 				"sectionNotes": [
@@ -7158,10 +7158,20 @@
 				"sectionNotes": [],
 				"typeOfSection": 0,
 				"altAnim": false
+			},
+			{
+				"lengthInSteps": 16,
+				"bpm": 215,
+				"changeBPM": false,
+				"mustHitSection": true,
+				"gfSection": false,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"altAnim": false
 			}
 		],
-		"player2": "pico",
-		"gfVersion": "gf",
+		"player2": "pico-player",
+		"gfVersion": "gf-pixel",
 		"events": [],
 		"player3": "gf",
 		"song": "south",

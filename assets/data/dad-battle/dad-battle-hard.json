@@ -3,7 +3,7 @@
 		"player1": "bf",
 		"events": [],
 		"gfVersion": "gf",
-		"player2": "dad",
+		"player2": "pico",
 		"notes": [
 			{
 				"sectionNotes": [],
@@ -4346,6 +4346,26 @@
 				"sectionNotes": [],
 				"typeOfSection": 0,
 				"altAnim": false
+			},
+			{
+				"lengthInSteps": 16,
+				"bpm": 208,
+				"changeBPM": false,
+				"mustHitSection": true,
+				"gfSection": false,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"altAnim": false
+			},
+			{
+				"lengthInSteps": 16,
+				"bpm": 208,
+				"changeBPM": false,
+				"mustHitSection": true,
+				"gfSection": false,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"altAnim": false
 			}
 		],
 		"player3": "gf",
@@ -4355,6 +4375,7 @@
 		"stage": "stage",
 		"validScore": true,
 		"bpm": 208,
-		"speed": 2.9
+		"speed": 2.9,
+		"arrowSkin": ""
 	}
 }
