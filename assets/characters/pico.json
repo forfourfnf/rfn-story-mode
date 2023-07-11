@@ -150,12 +150,12 @@
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/benson",
+	"image": "characters/Pico_FNF_assetss",
 	"position": [
 		0,
 		-60
 	],
-	"healthicon": "benson",
+	"healthicon": "pico",
 	"flip_x": false,
 	"healthbar_colors": [
 		236,
