@@ -4,7 +4,7 @@
 		"bpm": 208,
 		"needsVoices": true,
 		"player1": "bf",
-		"player2": "pico",
+		"player2": "parents-christmas",
 		"speed": 2.700000000000001,
 		"notes": [
 			{
@@ -4519,6 +4519,26 @@
 						0
 					]
 				],
+				"typeOfSection": 0,
+				"altAnim": false
+			},
+			{
+				"lengthInSteps": 16,
+				"bpm": 208,
+				"changeBPM": false,
+				"mustHitSection": true,
+				"gfSection": false,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"altAnim": false
+			},
+			{
+				"lengthInSteps": 16,
+				"bpm": 208,
+				"changeBPM": false,
+				"mustHitSection": true,
+				"gfSection": false,
+				"sectionNotes": [],
 				"typeOfSection": 0,
 				"altAnim": false
 			},
