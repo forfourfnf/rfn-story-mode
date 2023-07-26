@@ -11,7 +11,7 @@
 		],
 		[
 			"Fresh",
-			"dad",
+			"spooky",
 			[
 				146,
 				113,
@@ -20,7 +20,7 @@
 		],
 		[
 			"Dad Battle",
-			"dad",
+			"pico",
 			[
 				146,
 				113,
@@ -29,7 +29,7 @@
 		],
 		[
 			"Spookeez",
-			"dad",
+			"monster",
 			[
 				146,
 				113,
@@ -38,7 +38,7 @@
 		],
 		[
 			"South",
-			"dad",
+			"monster",
 			[
 				146,
 				113,
@@ -53,7 +53,7 @@
 	],
 	"weekBackground": "stage",
 	"weekBefore": "tutorial",
-	"storyName": "Your New Week",
+	"storyName": "Regular Friday Night",
 	"weekName": "Custom Week",
 	"freeplayColor": [
 		146,
@@ -63,5 +63,5 @@
 	"startUnlocked": true,
 	"hideStoryMode": false,
 	"hideFreeplay": false,
-	"difficulties": ""
+	"difficulties": "Hard"
 }

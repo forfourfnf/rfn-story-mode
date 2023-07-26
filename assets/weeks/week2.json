@@ -2,7 +2,7 @@
 	"songs": [
 		[
 			"Cocoa",
-			"dad",
+			"parents",
 			[
 				146,
 				113,
@@ -11,7 +11,7 @@
 		],
 		[
 			"Eggnog",
-			"dad",
+			"senpai-pixel",
 			[
 				146,
 				113,
@@ -26,7 +26,7 @@
 	],
 	"weekBackground": "stage",
 	"weekBefore": "tutorial",
-	"storyName": "Your New Week",
+	"storyName": "The Demo",
 	"weekName": "Custom Week",
 	"freeplayColor": [
 		146,
@@ -36,5 +36,5 @@
 	"startUnlocked": true,
 	"hideStoryMode": true,
 	"hideFreeplay": false,
-	"difficulties": ""
+	"difficulties": "Hard"
 }
