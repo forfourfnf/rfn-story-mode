@@ -4,37 +4,27 @@
 			"Cocoa",
 			"parents",
 			[
-				146,
-				113,
-				253
-			]
-		],
-		[
-			"Eggnog",
-			"senpai-pixel",
-			[
-				146,
-				113,
-				253
+				255,
+				212,
+				51
 			]
 		]
 	],
+	"hideFreeplay": false,
+	"weekBackground": "stage",
 	"weekCharacters": [
 		"dad",
-		"bf",
-		"gf"
+		"gf",
+		"bf"
 	],
-	"weekBackground": "stage",
-	"weekBefore": "tutorial",
-	"storyName": "The Demo",
-	"weekName": "Custom Week",
+	"storyName": "week1",
+	"weekName": "vs benson",
 	"freeplayColor": [
-		146,
-		113,
-		253
+		255,
+		212,
+		51
 	],
-	"startUnlocked": true,
 	"hideStoryMode": true,
-	"hideFreeplay": false,
-	"difficulties": "Hard"
+	"weekBefore": "week1",
+	"startUnlocked": true
 }

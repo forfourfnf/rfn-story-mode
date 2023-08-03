@@ -1,60 +1,9 @@
 {
-	"songs": [
-		[
-			"Bopeebo",
-			"dad",
-			[
-				146,
-				113,
-				253
-			]
-		],
-		[
-			"Fresh",
-			"spooky",
-			[
-				146,
-				113,
-				253
-			]
-		],
-		[
-			"Dad Battle",
-			"pico",
-			[
-				146,
-				113,
-				253
-			]
-		],
-		[
-			"Spookeez",
-			"monster",
-			[
-				146,
-				113,
-				253
-			]
-		],
-		[
-			"South",
-			"monster",
-			[
-				146,
-				113,
-				253
-			]
-		]
-	],
-	"weekCharacters": [
-		"dad",
-		"bf",
-		"gf"
-	],
+	"storyName": "irregular encounter",
+	"hideFreeplay": false,
+	"difficulties": "Hard",
 	"weekBackground": "stage",
 	"weekBefore": "tutorial",
-	"storyName": "Regular Friday Night",
-	"weekName": "Custom Week",
 	"freeplayColor": [
 		146,
 		113,
@@ -62,6 +11,57 @@
 	],
 	"startUnlocked": true,
 	"hideStoryMode": false,
-	"hideFreeplay": false,
-	"difficulties": "Hard"
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Bopeebo",
+			"dad",
+			[
+				106,
+				93,
+				213
+			]
+		],
+		[
+			"Fresh",
+			"spooky",
+			[
+				186,
+				53,
+				73
+			]
+		],
+		[
+			"Dad Battle",
+			"pico",
+			[
+				175,
+				13,
+				53
+			]
+		],
+		[
+			"Spookeez",
+			"monster",
+			[
+				175,
+				13,
+				53
+			]
+		],
+		[
+			"South",
+			"monster",
+			[
+				255,
+				13,
+				13
+			]
+		]
+	],
+	"weekName": "Week 1"
 }
