@@ -3,119 +3,97 @@
 		{
 			"loop": false,
 			"offsets": [
-				-3,
-				-1
+				-18,
+				7
 			],
-			"fps": 24,
-			"anim": "idle",
-			"indices": [],
-			"name": "BF idle dance"
-		},
-		{
-			"loop": false,
-			"offsets": [
-				12,
-				-6
-			],
-			"fps": 24,
-			"anim": "singLEFT",
-			"indices": [],
-			"name": "BF NOTE LEFT0"
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-10,
-				-50
-			],
-			"fps": 24,
-			"anim": "singDOWN",
-			"indices": [],
-			"name": "BF NOTE DOWN0"
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-29,
-				27
-			],
-			"fps": 24,
 			"anim": "singUP",
-			"indices": [],
-			"name": "BF NOTE UP0"
+			"fps": 24,
+			"name": "bf up",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-65,
+				-131
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "dead",
+			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				-38,
-				-7
+				-66,
+				-128
 			],
+			"anim": "firstDeath",
 			"fps": 24,
-			"anim": "singRIGHT",
-			"indices": [],
-			"name": "BF NOTE RIGHT0"
+			"name": "dies",
+			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				12,
-				24
+				-53,
+				-111
 			],
+			"anim": "deathConfirm",
 			"fps": 24,
-			"anim": "singLEFTmiss",
-			"indices": [],
-			"name": "BF NOTE LEFT MISS"
+			"name": "bf confirm",
+			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
 				-11,
-				-19
+				0
 			],
+			"anim": "singDOWN",
 			"fps": 24,
-			"anim": "singDOWNmiss",
-			"indices": [],
-			"name": "BF NOTE DOWN MISS"
+			"name": "bf down",
+			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				-29,
-				27
+				-4,
+				6
 			],
+			"anim": "singLEFT",
 			"fps": 24,
-			"anim": "singUPmiss",
-			"indices": [],
-			"name": "BF NOTE UP MISS"
+			"name": "bf left",
+			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				-30,
-				21
+				-11,
+				3
 			],
+			"anim": "singRIGHT",
 			"fps": 24,
-			"anim": "singRIGHTmiss",
-			"indices": [],
-			"name": "BF NOTE RIGHT MISS"
+			"name": "bf right",
+			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				-3,
-				5
+				-5,
+				0
 			],
+			"anim": "idle",
 			"fps": 24,
-			"anim": "hey",
-			"indices": [],
-			"name": "BF HEY"
+			"name": "bf idle",
+			"indices": []
 		}
 	],
 	"no_antialiasing": false,
 	"image": "characters/bfChristmas",
 	"position": [
-		0,
-		350
+		350,
+		420
 	],
 	"healthicon": "bf",
 	"flip_x": true,
@@ -129,5 +107,5 @@
 		0
 	],
 	"sing_duration": 4,
-	"scale": 1
+	"scale": 0.4
 }

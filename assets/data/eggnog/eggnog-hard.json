@@ -15347,7 +15347,7 @@
 					[
 						"Change Character",
 						"2",
-						"gf-fear"
+						"mom-car"
 					]
 				]
 			],
@@ -15367,7 +15367,7 @@
 					[
 						"Change Character",
 						"1",
-						"benson-uncontrolled"
+						"monster-christmas"
 					]
 				]
 			],
@@ -15387,7 +15387,7 @@
 					[
 						"Change Character",
 						"bf",
-						"bf-scared"
+						"bf-christmas"
 					]
 				]
 			],
@@ -15507,7 +15507,7 @@
 					[
 						"Change Character",
 						"1",
-						"benson-angry"
+						"senpai"
 					]
 				]
 			],
@@ -15667,7 +15667,7 @@
 					[
 						"Change Character",
 						"2",
-						"gf-fear"
+						"mom-car"
 					]
 				]
 			],
@@ -15687,7 +15687,7 @@
 					[
 						"Change Character",
 						"1",
-						"benson-uncontrolled"
+						"monster-christmas"
 					]
 				]
 			],
@@ -15707,7 +15707,7 @@
 					[
 						"Change Character",
 						"bf",
-						"bf-scared"
+						"bf-christmas"
 					]
 				]
 			],
@@ -16495,7 +16495,7 @@
 		"player2": "senpai",
 		"player3": null,
 		"splashSkin": "noteSplashes",
-		"song": "eggnog",
+		"song": "Eggnog",
 		"needsVoices": true,
 		"arrowSkin": "",
 		"validScore": true,

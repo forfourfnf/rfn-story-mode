@@ -205,7 +205,7 @@
 		300,
 		500
 	],
-	"healthicon": "bf-pixel",
+	"healthicon": "bf",
 	"flip_x": true,
 	"healthbar_colors": [
 		116,
